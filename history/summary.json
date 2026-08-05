@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-05": 915
+      "2026-08-05": 1152
     }
   },
   {
@@ -24,17 +24,17 @@
     "url": "https://api.huerto.bio/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.huerto.bio.ico",
     "slug": "api-backend",
-    "status": "up",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
-    "time": 700,
-    "timeDay": 700,
-    "timeWeek": 700,
-    "timeMonth": 700,
-    "timeYear": 700,
+    "status": "down",
+    "uptime": "20.56%",
+    "uptimeDay": "20.56%",
+    "uptimeWeek": "20.56%",
+    "uptimeMonth": "20.56%",
+    "uptimeYear": "20.56%",
+    "time": 571,
+    "timeDay": 571,
+    "timeWeek": 571,
+    "timeMonth": 571,
+    "timeYear": 571,
     "dailyMinutesDown": {
       "2026-08-05": 915
     }
