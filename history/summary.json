@@ -4,12 +4,12 @@
     "url": "https://beta.huerto.bio",
     "icon": "https://icons.duckduckgo.com/ip3/beta.huerto.bio.ico",
     "slug": "app-huerto-bio",
-    "status": "up",
-    "uptime": "42.25%",
-    "uptimeDay": "42.25%",
-    "uptimeWeek": "42.25%",
-    "uptimeMonth": "42.25%",
-    "uptimeYear": "42.25%",
+    "status": "down",
+    "uptime": "37.49%",
+    "uptimeDay": "37.49%",
+    "uptimeWeek": "37.49%",
+    "uptimeMonth": "37.49%",
+    "uptimeYear": "37.49%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -25,16 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.huerto.bio.ico",
     "slug": "api-backend",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "59.25%",
+    "uptimeDay": "59.25%",
+    "uptimeWeek": "59.25%",
+    "uptimeMonth": "59.25%",
+    "uptimeYear": "59.25%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-05": 0
+    }
   }
 ]
