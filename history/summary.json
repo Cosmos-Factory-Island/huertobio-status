@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/beta.huerto.bio.ico",
     "slug": "app-huerto-bio",
     "status": "down",
-    "uptime": "37.49%",
-    "uptimeDay": "37.49%",
-    "uptimeWeek": "37.49%",
-    "uptimeMonth": "37.49%",
-    "uptimeYear": "37.49%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-05": 0
+      "2026-08-05": 915
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://api.huerto.bio/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.huerto.bio.ico",
     "slug": "api-backend",
-    "status": "down",
-    "uptime": "59.25%",
-    "uptimeDay": "59.25%",
-    "uptimeWeek": "59.25%",
-    "uptimeMonth": "59.25%",
-    "uptimeYear": "59.25%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
+    "time": 700,
+    "timeDay": 700,
+    "timeWeek": 700,
+    "timeMonth": 700,
+    "timeYear": 700,
     "dailyMinutesDown": {
-      "2026-08-05": 0
+      "2026-08-05": 915
     }
   }
 ]
