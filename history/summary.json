@@ -1,42 +1,38 @@
 [
   {
-    "name": "App HuertoBio",
+    "name": "App HuertoBio (Beta)",
     "url": "https://beta.huerto.bio",
-    "icon": "https://icons.duckduckgo.com/ip3/beta.huerto.bio.ico",
-    "slug": "app-huerto-bio",
+    "icon": "https://beta.huerto.bio/favicon.ico",
+    "slug": "app-huerto-bio-beta",
     "status": "up",
-    "uptime": "2.64%",
-    "uptimeDay": "2.64%",
-    "uptimeWeek": "2.64%",
-    "uptimeMonth": "2.64%",
-    "uptimeYear": "2.64%",
-    "time": 1829,
-    "timeDay": 1829,
-    "timeWeek": 1829,
-    "timeMonth": 1829,
-    "timeYear": 1829,
-    "dailyMinutesDown": {
-      "2026-08-05": 1178
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1574,
+    "timeDay": 1574,
+    "timeWeek": 1574,
+    "timeMonth": 1574,
+    "timeYear": 1574,
+    "dailyMinutesDown": {}
   },
   {
-    "name": "API Backend",
+    "name": "API Backend (Healthcheck)",
     "url": "https://api.huerto.bio/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.huerto.bio.ico",
-    "slug": "api-backend",
+    "slug": "api-backend-healthcheck",
     "status": "up",
-    "uptime": "22.20%",
-    "uptimeDay": "22.20%",
-    "uptimeWeek": "22.20%",
-    "uptimeMonth": "22.20%",
-    "uptimeYear": "22.20%",
-    "time": 613,
-    "timeDay": 613,
-    "timeWeek": 613,
-    "timeMonth": 613,
-    "timeYear": 613,
-    "dailyMinutesDown": {
-      "2026-08-05": 941
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 660,
+    "timeDay": 660,
+    "timeWeek": 660,
+    "timeMonth": 660,
+    "timeYear": 660,
+    "dailyMinutesDown": {}
   }
 ]
