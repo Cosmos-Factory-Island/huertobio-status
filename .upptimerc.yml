@@ -1,22 +1,36 @@
 owner: Cosmos-Factory-Island
 repo: huertobio-status
 
-site-name: HuertoBio Status
+site-name: HuertoBio | Estado del Servicio
 
 status-website:
   cname: status.huerto.bio
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  favicon: https://beta.huerto.bio/favicon.ico
   name: HuertoBio Status
-  introTitle: "Página de estado de los servicios de HuertoBio."
-  introMessage: "Monitorización en tiempo real de los servicios y APIs."
+  introTitle: "Estado de los servicios de HuertoBio"
+  introMessage: "Monitoreo en tiempo real de la disponibilidad, latencia y rendimiento de nuestras plataformas y APIs."
   navbar:
-    - title: Status
+    - title: Estado
       href: /
+    - title: HuertoBio
+      href: https://huerto.bio
+    - title: App Beta
+      href: https://beta.huerto.bio
     - title: GitHub
       href: https://github.com/Cosmos-Factory-Island/huertobio-status
 
+# Asignados automáticos al crear issues de incidencias
+assignees:
+  - kralc
+
 sites:
-  - name: App HuertoBio
+  - name: App HuertoBio (Beta)
     url: https://beta.huerto.bio
-  - name: API Backend
+    icon: https://beta.huerto.bio/favicon.ico
+
+  - name: API Backend (Healthcheck)
     url: https://api.huerto.bio/api/health
+    expectedStatusCodes:
+      - 200
+
