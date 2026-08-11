@@ -5,16 +5,16 @@
     "icon": "https://beta.huerto.bio/favicon.ico",
     "slug": "app-huerto-bio-beta",
     "status": "up",
-    "uptime": "99.17%",
+    "uptime": "99.22%",
     "uptimeDay": "96.06%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.17%",
-    "uptimeYear": "99.17%",
-    "time": 1752,
-    "timeDay": 1753,
-    "timeWeek": 1752,
-    "timeMonth": 1752,
-    "timeYear": 1752,
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.22%",
+    "uptimeYear": "99.22%",
+    "time": 1815,
+    "timeDay": 1750,
+    "timeWeek": 1815,
+    "timeMonth": 1815,
+    "timeYear": 1815,
     "dailyMinutesDown": {
       "2026-08-10": 57
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 672,
-    "timeDay": 731,
-    "timeWeek": 672,
-    "timeMonth": 672,
-    "timeYear": 672,
+    "time": 677,
+    "timeDay": 723,
+    "timeWeek": 677,
+    "timeMonth": 677,
+    "timeYear": 677,
     "dailyMinutesDown": {}
   }
 ]
