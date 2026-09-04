@@ -1,7 +1,7 @@
 url: https://api.huerto.bio/api/health
-status: down
-code: 503
-responseTime: 416
-lastUpdated: 2026-09-04T17:13:55.219Z
+status: up
+code: 200
+responseTime: 339
+lastUpdated: 2026-09-04T19:40:56.090Z
 startTime: 2026-08-06T00:52:18.316Z
 generator: Upptime <https://github.com/upptime/upptime>
